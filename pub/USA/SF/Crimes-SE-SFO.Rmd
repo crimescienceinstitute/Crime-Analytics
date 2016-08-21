@@ -1,0 +1,8 @@
+---
+title: Violent crimes occur more frequently in city centers and during evening hours
+  in San Francisco and Seattle, U.S.A.
+output:
+  html_document:
+    keep_md: yes
+  pdf_document: default
+---
